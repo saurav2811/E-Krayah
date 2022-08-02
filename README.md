@@ -1,6 +1,3 @@
-# voice-navigation-for-website
-A simple voice based navigation system for your website
-
 Completely hands free navigation system using voice commands!
 
 Just Speak out the commands!
@@ -9,46 +6,16 @@ Just Speak out the commands!
 
 Try the demo 
 --
-https://dhanashreerevagade.github.io/voice-navigation-for-website/
+https://e-krayah.netlify.app/single.html
 
-(Allow audio/video access through popup during the demo)
+Homepage:
+![image](https://user-images.githubusercontent.com/62281874/182448911-5099131a-90d7-4175-8a3c-4cf5724592f8.png)
 
+Product Page:
+![image](https://user-images.githubusercontent.com/62281874/182449286-e82bcf3d-c0c6-46ec-bd5b-33b771a5a7f6.png)
 
-Library used - Annyang (https://github.com/TalAter/annyang)
-
-A tiny JavaScript Speech Recognition library that lets your users control your site with voice commands.
-
-
-
-Commands to try:
---
-☐	Say hello
-
-☐	Slide (to slide the image carousel)
-
-☐	Go to *(website name)
-
-☐	Search for *(search query)
-
-☐	Scroll to top, Scroll to bottom
-
-☐	Scroll up/ scroll up little, scroll down/scroll down little
-
-☐	Play Video, Pause Video
-
-☐	Login
-
-☐	Open tab *(tab name)
-
-☐	Dark mode, Light mode(while watching video)
-
-☐	Download all commands file
-
-☐	Write name *(name), write email *(email), write phone number *(number), write query*(query) 
-
-☐	Submit query, submit details
-
-
+Single Product Page:
+![image](https://user-images.githubusercontent.com/62281874/182449407-02865cd2-f9d0-4416-a091-4dcea674ddcb.png)
 
 
 THANK YOU
